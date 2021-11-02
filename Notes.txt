@@ -1,0 +1,29 @@
+GIT Commands
+
+git status
+git add .
+git commit -m "Adding text file"
+git pull origin master(Branch Name)
+git push origin master(Branch Name)
+
+git log --all --graph --decorate --oneline
+git config --global alias.hist "log --all --graph --decorate --oneline"
+git hist
+
+
+
+
+
+
+git ignore pattern:-
+Specific File: MyFile.ext
+File Pattern: *.ext
+Folder : my-folder/
+
+
+
+
+
+
+
+
